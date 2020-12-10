@@ -1,0 +1,2 @@
+# wavCompact
+WAVファイルを短くするPerlモジュール
